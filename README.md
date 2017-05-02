@@ -17,7 +17,7 @@ Connections
 
 Sensor  - D6
 
-![cnnections](https://github.com/lyudatan/temperature-sensor/blob/master/DS18B20_Connection.jpg "Connections")
+![cnnections](https://github.com/lyudatan/temperature-sensor/blob/master/DS18B20-Wiring.jpg "Connections")
 
 ![cnnections](https://github.com/lyudatan/temperature-sensor/blob/master/Untitled%20Sketch_bb.png "Connections")
 
